@@ -7,7 +7,7 @@
 //| PROPRIEDADES DO INDICADOR                                        |
 //+------------------------------------------------------------------+
 #property indicator_buffers 1 // quantidade de vetores buffers.
-#property indicator_plots 1 // quantidade de type.
+#property indicator_plots 1 // quantidade relacionada ao type.
 //---
 #property indicator_label1 "indicador-teste" // nome.
 #property indicator_type1 DRAW_LINE // type -> linha simples, moldável ao cálculo. DRAW_HISTOGRAM ...
