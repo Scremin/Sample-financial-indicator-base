@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                                  Indicador-1.mq5 |
+//|                                                    Indicador mq5 |
 //+------------------------------------------------------------------+
 #property indicator_chart_window // Plot sobreposto ao gráfico.
 //#property indicator_separate_window // Plot em janela separada.
