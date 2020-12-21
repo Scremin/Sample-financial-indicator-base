@@ -1,9 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                                  Indicador-1.mq5 |
 //+------------------------------------------------------------------+
-#property copyright "Renitton-Scremin"
-#property link      ""
-#property version   "1.00"
 #property indicator_chart_window // Plot sobreposto ao gráfico.
 //#property indicator_separate_window // Plot em janela separada.
 //+------------------------------------------------------------------+
