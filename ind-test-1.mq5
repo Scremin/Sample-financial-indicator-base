@@ -47,7 +47,7 @@ int OnCalculate(const int rates_total,
       if(prev_calculated==0){
          // Verificar todos os candles.
          for(int i=0;i<rates_total;i++){
-            // Colocando todos os valores de fechamento (close) no buffer de manipulação.
+            // Colocando todos os valores de máxima (high) no buffer de manipulação.
             //indBuffer[i] = (high[i])+0.00010; // Lembrar de atribuir os dígitos relativos ao ativo.
             indBuffer[i] = (high[i]);
          }
